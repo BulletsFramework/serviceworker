@@ -1,4 +1,4 @@
-var version = 'v1.4.0:';
+var version = 'v1.0.0:';
 
 var theme_path = 'wp-content/themes/themfoldername/';
 
