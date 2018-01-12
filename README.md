@@ -3,7 +3,7 @@
 This simple service worker:
 
 - Caches your themes static assets e.g. graphics, styles and JS
-- Caches pages of your site as your visitors browser, maximum 25
+- Caches pages of your site as your visitors browse, maximum 25
 - Caches an Offline page which is displayed if a page not in the cache is requested
 
 Pre-requisites
