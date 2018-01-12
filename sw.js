@@ -1,6 +1,6 @@
 var version = 'v1.4.0:';
 
-var theme_path = 'wp-content/themes/skoff/';
+var theme_path = 'wp-content/themes/themfoldername/';
 
 var offlineFundamentals = [
   './',
